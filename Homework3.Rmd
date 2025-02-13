@@ -5,6 +5,10 @@ date: "2025-02-11"
 output: html_document
 ---
 
+Brendan Ryan
+bpr663
+https://github.com/BrendanRyan13/SDS315HW3
+
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 setwd("C:/Users/frogb/Documents/SDS315/Homework3")
 library(ggplot2)
